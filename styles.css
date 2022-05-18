@@ -5,3 +5,7 @@ body {
 nav {
   font-size : 30px;
  }
+#id{
+    display : flex;
+    flex-flow: start-right repeat(1,1rem)
+}
